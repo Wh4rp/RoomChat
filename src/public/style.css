@@ -8,7 +8,8 @@ body{
   margin: 30px 25% 30px 25%;
   border-style: solid;
   border-color: purple;
-  overflow: scroll ;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 .msg{
   padding-top: 8px;

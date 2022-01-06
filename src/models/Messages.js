@@ -12,7 +12,7 @@ new MessageSchema = Schema (
     },
   },
   {
-    timestamps: true,
+    timestamps: true
   }
 );
 
